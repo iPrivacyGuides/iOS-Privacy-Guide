@@ -7,7 +7,6 @@ Despite the shortcomings of iOS, it can be a good choice given that some changes
 
 This text will serve as a practical guide to getting your iPhone to be as private and secure as possible given the constraints of the operating system. While this guide was written specifically with the iPhone in mind, most if not all principles would be applicable to the iPad as well. This guide has been designed to be as easy to follow as possible, while providing a concise summary of what each setting, feature, and app does. Many of the changes we discuss will have no impact on the daily usage of your device, while a few may require some getting used to. Despite this period of adjustment, all of the changes discussed remain practical and important for your device's privacy and security. Efforts have been made to have this guide cater to both complete beginners, as well as more tech savvy individuals; there’s something in this guide for everyone. At the time of publication, this guide has been thoroughly tested on iOS 15 and 16. With that said, most of the contents of this guide will also be useful for many past and future version of iOS. Efforts will be made to update this guide as new versions of iOS are released and changes are made.
 
----
 
 ## Settings to change within the Settings App
 
