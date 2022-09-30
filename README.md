@@ -178,8 +178,6 @@ Turn off **“Personalized Recommendations”**. If this is on, it will allow Ap
 **Settings - General - About - Name**
 This is more of a concern if you ever connect to public Wi-Fi. While this is not recommended, it is generally not a good idea to have your device’s name containing your real full name if you need to do so. This information could potentially be documented by other people on the network, and used to identify you on any given Wi-Fi network. It's best to stick to a generic, anonymous device name.
 
----
-
 ## DNS Firewall & Browser Content Blocking
 
 Having a DNS Firewall will control how your device is allowed to access the internet, and will essentially act as a filter/content blocker for apps and your operating system in general. The apps we will discuss run locally on your device and filter all outbound connections your apps attempt to load. The app determines what requests it blocks based on its comprehensive blocklists, which are very accurate and prevent false positives. For example, if you open a game on your device which loads a Facebook tracker, the DNS firewall app of your choosing will block the connection to that tracker URL. Not only does this have extreme privacy benefits, it also prevents general annoyances such as advertisements, prevents known phishing or malicious sites and content from loading, and can save battery and data as unnecessary requests to the internet are no longer made.
